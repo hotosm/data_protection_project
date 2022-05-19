@@ -1,4 +1,4 @@
-![](hot-logo-icon-nav.svg)
+![](hot_logo.png)
 # HOTOSM Data Protection Project
 
 Policies, guidance, tools, and resources for Data Protection in humanitarian mapping
