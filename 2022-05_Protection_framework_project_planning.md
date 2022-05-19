@@ -28,7 +28,7 @@ Define milestones
 
 (Comms aspect?)
 ## Structure and prioritization
-[!structure_and_prioritization](images/structure_and_prioritization.png)
+![structure_and_prioritization](images/structure_and_prioritization.png)
 
 
 
