@@ -28,7 +28,7 @@ Define milestones
 
 (Comms aspect?)
 ## Structure and prioritization
-[!structure_and_prioritization](images/structure_and_prioritization.jpg)
+[!structure_and_prioritization](images/structure_and_prioritization.png)
 
 
 
@@ -40,3 +40,20 @@ Define milestones
 | Spatial Data Security Policy | Ensure that data collected via direct observation or remotely is managed and handled securely. |          |                                                                                                        |
 | Data Impact Assessment       |                                                                                                |          |                                                                                                        |
 | Data Collection Design       |                                                                                                |          | Connects closely to Impact areas & Tech (which mobile data collection tools to support)                |
+
+## Timelines
+
+| Milestone                             | ETA | Indicator |
+|---------------------------------------|-----|-----------|
+| Milestone 1: internal                 |     |           |
+| Milestone 2: open (community process) |     |           |
+|                                       |     |           |
+
+## Resources
+[IASC Operational Guidance on Data Responsibility in Humanitarian Action](https://interagencystandingcommittee.org/operational-response/iasc-operational-guidance-data-responsibility-humanitarian-action)
+
+## Notes
+- Implementation plans; how to actually apply, tools, training, responsibilities
+- Mechanisms for hubs and community grantees
+
+
