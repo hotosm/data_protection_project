@@ -12,8 +12,9 @@ In scope - policies that directly guide decision making on data collection activ
 
 Out of scope - logistical safety on the ground for field data collection. 
 
-# Key Documents
+# Key Resources and Documents
 
+- [Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing)containing the work-in-progress *internal* documents (permissions currently set for only HOT internal invited collaborators to edit).
 - [Project framework and planning](2022-05_Protection_framework_project_planning.md) describes the timeline, roles and responsibilities, and some of the specific outcomes.
 - [Draft policy paper on mapping in conflict (GDoc)](https://docs.google.com/document/d/1SM_VUJ_Lhstv3gf9cwsqBWO2o4AQi4WEIVmob1Hbu9M/edit?usp=sharing) outlines the principles and policies that guide HOT's decisions about mapping in conflict and humanitarian settings.
 - [Draft toolkit](https://docs.google.com/document/d/134jufZsT7ErVmi3bI5vlPioNNmskplVH/edit?usp=sharing&ouid=103199202574829995989&rtpof=true&sd=true) to identify the kinds of contexts where the , and some guidance and resources to make decisions
