@@ -7,7 +7,11 @@ The resources here are used internally by HOT Open Data Hubs, the Global team, a
 
 # How to Use these Tools
 
-First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist and flowchart]() which begin at the stage of a new project proposal, guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use, and an actual Risk Assessment spreadsheet template.
+First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/01%20HOT%20New%20Project%20Ethical%20Data%20and%20Protection%20Checklist.docx) and [flowchart](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/02%20Ethical%20Data%20and%20Protection%20Decision%20Flowchart.pptx) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
+
+![Data Ethics and Protection Flowchart Image](images/Ethical Data and Protection Decision Flowchart.jpg)
+
+and an actual Risk Assessment spreadsheet template.
 
 ## How to get the toolkit
 This is a Git repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
@@ -15,7 +19,10 @@ This is a Git repo, which is obviously somewhat tailored for people who are tech
 However, for those of you that enjoy using Git (or would like to learn) this is really a nice way of making things available for people to contribute freely while retaining a consistent set of tools for end users.
 
 ### Download the Zip file and Get Started
-The easiest way to use these tools is to click the green ```Code``` button near the top right of the screen, press ```Download ZIP```, and extract it onto your hard drive. You then have your very own local copy of everything that you can use, modify, personalize, and enjoy without messing it up for anyone else! You don't need a GitHub account or any tech skills other than the ability to extract a zip file [(like this)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Do%20one%20of%20the%20following,and%20then%20follow%20the%20instructions.).
+The easiest way to use these tools is to click the green ```Code``` button near the top right of the screen, press ```Download ZIP```, and extract it onto your hard drive.
+
+[You can also download the Zip file directly here](https://github.com/hotosm/data_protection_project/archive/refs/heads/main.zip)
+You then have your very own local copy of everything that you can use, modify, personalize, and enjoy without messing it up for anyone else! You don't need a GitHub account or any tech skills other than the ability to extract a zip file [(like this)](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Do%20one%20of%20the%20following,and%20then%20follow%20the%20instructions.).
 
 ### Clone the Git Repo
 If you are experienced with Git and Github, and particularly if you would like to contribute to this resource, it is better to clone or fork the repo (we assume if you are experienced with Git and Github you know how this works). This has two major advantages:
