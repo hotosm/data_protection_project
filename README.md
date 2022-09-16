@@ -3,6 +3,8 @@
 
 This is the public portal for HOT's policies, guidance, tools, and resources for Ethical Data and Protection in open humanitarian mapping.
 
+Here is the [HOT Protection Policy (draft)](https://docs.google.com/document/d/1llx29NnSyTm8WUG9Q4FFPRVp8vPgpOaRJgTCg7e9ulQ/edit?usp=sharing), which outlines the principles behind the tools.
+
 The resources here are used internally by HOT Open Data Hubs, the Global team, and associated communities. However, in keeping with HOT's commitment to open data, public resources, collaboration, and above all community-first action, we are pleased to make this repository available to anyone&mdash;not only to read, but to contribute with content, suggestions, critiques, and resources.
 
 # How to Use these Tools
