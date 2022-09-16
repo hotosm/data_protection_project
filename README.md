@@ -16,6 +16,8 @@ and an actual Risk Assessment spreadsheet template.
 ## How to get the toolkit
 This is a GitHub repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
 
+The Learning and Training folder contains a Powerpoint presentation with extensive speaker notes. It is most effective when used by an experienced trainer, but for people somewhat familiar with Protection concepts and risk assessment it may serve as a reasonable self-study resource.
+
 However, for those of you that enjoy using Git (or would like to learn) this is really a nice way of making things available for people to contribute freely while retaining a consistent set of tools for end users.
 
 ### Download the Zip file and Get Started
