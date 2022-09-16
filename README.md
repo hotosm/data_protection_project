@@ -12,12 +12,13 @@ First and foremost, this toolkit represents a process to think through Protectio
 ![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
 
 There are additionally several worksheets:
-- [Context Characterization worksheet]()
-- [Data Senstivity worksheet]()
-- [Additional Risk Factor worksheet]()
+- [Context Characterization worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/03%20Context%20Characterization%20Worksheet.pptx)
+- [Data Senstivity worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/04%20Data%20Sensitivity%20Worksheet.pptx)
+- [Additional Risk Factor worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/05%20Additional%20Risk%20Factor%20Worksheet.pptx)
 
+These worksheets represent the *decision-making nodes* in the flowchart, and are simple single-page slides with straighforward descriptions to match the context, activities, and data of the proposed project.
 
-and an actual Risk Assessment spreadsheet template.
+Finally, there is [Risk Assessment spreadsheet template](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/06%20Protection%20Risk%20Assessment%20Template.xlsx), a spreadsheet intended for analysis, prioritization, and mitigation of potential Protection risks.
 
 ## How to get the toolkit
 This is a GitHub repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
