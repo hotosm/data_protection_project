@@ -7,17 +7,17 @@ The resources here are used internally by HOT Open Data Hubs, the Global team, a
 
 # How to Use these Tools
 
-First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/01%20HOT%20New%20Project%20Ethical%20Data%20and%20Protection%20Checklist.docx) and [flowchart](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/02%20Ethical%20Data%20and%20Protection%20Decision%20Flowchart.pptx) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
+First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist](https://docs.google.com/document/d/1mTonO59HljWKwkkJid7I7LQ1fzxBGwlGYW_E__5hdLs/edit?usp=sharing) and [flowchart](https://docs.google.com/presentation/d/1yToah2wn523h6eBARgGF5l_GhLWz3PbqVGGadvz7k8g/edit?usp=sharing) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
 
-For field mapping projects launched, managed, or directly supported by HOT, the project lead should complete the [checklist]() *before beginning project activities*. 
+For field mapping projects launched, managed, or directly supported by HOT, the project lead should complete the [checklist](https://docs.google.com/document/d/1mTonO59HljWKwkkJid7I7LQ1fzxBGwlGYW_E__5hdLs/edit?usp=sharing) *before beginning project activities*. 
 
 ![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
 
 There are several worksheets associated with and linked to the checklist:
 
-- [Context Characterization worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/03%20Context%20Characterization%20Worksheet.pptx)
-- [Data Senstivity worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/04%20Data%20Sensitivity%20Worksheet.pptx)
-- [Additional Risk Factor worksheet](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/05%20Additional%20Risk%20Factor%20Worksheet.pptx)
+- [Context Characterization worksheet](https://docs.google.com/presentation/d/1L9CeHFQASt49myurdnsyJXYYI1XszOaHt7MAr661ZT4/edit?usp=sharing)
+- [Data Senstivity worksheet](https://docs.google.com/presentation/d/1kim4W8YadF3Y-y3ybXfO_dnCoxw_WOHc41k-3b3Cqsg/edit?usp=sharing)
+- [Additional Risk Factor worksheet](https://docs.google.com/presentation/d/1ohHkjHLK9V-60zuWRvdPhAgaOHk4TxVL3dK6z-XM-Qk/edit?usp=sharing)
 
 These worksheets represent the *decision-making nodes* in the flowchart, and are simple single-page slides with straighforward descriptions to match the context, activities, and data of the proposed project.
 
@@ -26,7 +26,7 @@ Finally, there is [Risk Assessment spreadsheet template](https://github.com/hoto
 ## How to get the toolkit
 This is a GitHub repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
 
-The Learning and Training folder contains a Powerpoint presentation with extensive speaker notes. It is most effective when used by an experienced trainer, but for people somewhat familiar with Protection concepts and risk assessment it may serve as a reasonable self-study resource.
+The Learning and Training folder contains a [Powerpoint presentation with extensive speaker notes](https://docs.google.com/presentation/d/1XzexnMiMyWKldJcoZysC1AvU9YVTHGozRgbhOsfO2G8/edit?usp=sharing). It is most effective when used by an experienced trainer, but for people somewhat familiar with Protection concepts and risk assessment it may serve as a reasonable self-study resource.
 
 However, for those of you that enjoy using Git (or would like to learn) this is really a nice way of making things available for people to contribute freely while retaining a consistent set of tools for end users.
 
