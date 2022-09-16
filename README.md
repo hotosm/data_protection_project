@@ -11,6 +11,12 @@ First and foremost, this toolkit represents a process to think through Protectio
 
 ![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
 
+There are additionally several worksheets:
+- [Context Characterization worksheet]()
+- [Data Senstivity worksheet]()
+- [Additional Risk Factor worksheet]()
+
+
 and an actual Risk Assessment spreadsheet template.
 
 ## How to get the toolkit
