@@ -9,7 +9,7 @@ The resources here are used internally by HOT Open Data Hubs, the Global team, a
 
 First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/01%20HOT%20New%20Project%20Ethical%20Data%20and%20Protection%20Checklist.docx) and [flowchart](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/02%20Ethical%20Data%20and%20Protection%20Decision%20Flowchart.pptx) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
 
-![Data Ethics and Protection Flowchart Image](Ethical_Data_and_Protection_Decision_Flowchart.jpg)
+![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
 
 and an actual Risk Assessment spreadsheet template.
 
