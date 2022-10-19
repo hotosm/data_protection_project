@@ -13,11 +13,9 @@ First and foremost, this toolkit represents a process to think through Protectio
 
 For field mapping projects launched, managed, or directly supported by HOT, the project lead should complete the spreadsheet above *before beginning project activities*. 
 
-![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
+![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg) 
 
-There are several worksheets associated with and linked to the checklist
-
-These worksheets represent the *decision-making nodes* in the flowchart, and are simple single-page slides with straighforward descriptions to match the context, activities, and data of the proposed project.
+Each blue node in the flowchart is a *decision-making node*, and links to a tab in the spreadsheet. For example, the Context Categorization node corresponds to a Context Categorization tab in the spreadsheet, which provides a set of criteria and examples to guide the user in a decision about the inherent protection risk level of the context they are considering working in.
 
 ## How to get the toolkit
 This is a GitHub repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
