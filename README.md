@@ -9,21 +9,15 @@ The resources here are used internally by HOT Open Data Hubs, the Global team, a
 
 # How to Use these Tools
 
-First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [checklist](https://docs.google.com/document/d/1mTonO59HljWKwkkJid7I7LQ1fzxBGwlGYW_E__5hdLs/edit?usp=sharing) and [flowchart](https://docs.google.com/presentation/d/1yToah2wn523h6eBARgGF5l_GhLWz3PbqVGGadvz7k8g/edit?usp=sharing) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
+First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [spreadsheet-based tool](https://docs.google.com/spreadsheets/d/1sa3umVxfSBsqWxVpP8HjYOS0rwYsuHgPDfMIhSMtlnM/edit?usp=sharing) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use.
 
-For field mapping projects launched, managed, or directly supported by HOT, the project lead should complete the [checklist](https://docs.google.com/document/d/1mTonO59HljWKwkkJid7I7LQ1fzxBGwlGYW_E__5hdLs/edit?usp=sharing) *before beginning project activities*. 
+For field mapping projects launched, managed, or directly supported by HOT, the project lead should complete the spreadsheet above *before beginning project activities*. 
 
 ![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg)
 
-There are several worksheets associated with and linked to the checklist:
-
-- [Context Characterization worksheet](https://docs.google.com/presentation/d/1L9CeHFQASt49myurdnsyJXYYI1XszOaHt7MAr661ZT4/edit?usp=sharing)
-- [Data Senstivity worksheet](https://docs.google.com/presentation/d/1kim4W8YadF3Y-y3ybXfO_dnCoxw_WOHc41k-3b3Cqsg/edit?usp=sharing)
-- [Additional Risk Factor worksheet](https://docs.google.com/presentation/d/1ohHkjHLK9V-60zuWRvdPhAgaOHk4TxVL3dK6z-XM-Qk/edit?usp=sharing)
+There are several worksheets associated with and linked to the checklist
 
 These worksheets represent the *decision-making nodes* in the flowchart, and are simple single-page slides with straighforward descriptions to match the context, activities, and data of the proposed project.
-
-Finally, there is [Risk Assessment spreadsheet template](https://github.com/hotosm/data_protection_project/blob/main/Tools_and_resourcs/06%20Protection%20Risk%20Assessment%20Template.xlsx), a spreadsheet intended for analysis, prioritization, and mitigation of potential Protection risks.
 
 ## How to get the toolkit
 This is a GitHub repo, which is obviously somewhat tailored for people who are technically inclined. Fear not; it's mostly documents, spreadsheets, and slide decks, and [is available in a Google Drive folder](https://drive.google.com/drive/folders/11C_ltiwqzSP0TuUNVkVlUuTRJU7p6Tmi?usp=sharing) as well!
@@ -42,4 +36,3 @@ You then have your very own local copy of everything that you can use, modify, p
 If you are experienced with Git and Github, and particularly if you would like to contribute to this resource, it is better to clone or fork the repo (we assume if you are experienced with Git and Github you know how this works). This has two major advantages:
 1. You can always get the most updated version of the tools by using ```git pull```
 2. You can contribute your own suggested changes via a pull request, making the toolkit better for everyone!
-
