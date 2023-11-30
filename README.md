@@ -1,6 +1,7 @@
 ![logo](images/hot_logo.png)
 # HOTOSM Ethical Data and Protection Project
 
+
 This is the public portal for HOT's policies, guidance, tools, and resources for Ethical Data and Protection in open humanitarian mapping.
 
 Here is the [HOT Protection Policy (draft)](https://docs.google.com/document/d/1llx29NnSyTm8WUG9Q4FFPRVp8vPgpOaRJgTCg7e9ulQ/edit?usp=sharing), which outlines the principles behind the tools.
