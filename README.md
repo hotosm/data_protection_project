@@ -7,7 +7,7 @@ The resources here are used internally by HOT Open Mapping Hubs, the HOT Central
 
 # How to Use these Tools
 
-First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At it's heart is a [spreadsheet-based tool](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit#gid=1198706362) which begin at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use based on possible risks and mitigations.
+First and foremost, this toolkit represents a process to think through Protection risk when starting new open mapping activities. At its heart is a [spreadsheet-based tool](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit#gid=1198706362) which begins at the stage of a new project proposal and guide users through a rapid process to determine the baseline level of Protection risk and decide what Risk Assessment procedure to use based on possible risks and mitigations.
 
 ![Flowchart](images/Ethical_Data_and_Protection_Decision_Flowchart.jpg) 
 
